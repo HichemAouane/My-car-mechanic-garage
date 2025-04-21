@@ -2,5 +2,5 @@
 
 Un mini projet java pour la gestion d'un garage de mecanicien automobile
 
-###Class a executer "ConnetionBDD.java"
+### Class a executer "ConnetionBDD.java"
 
